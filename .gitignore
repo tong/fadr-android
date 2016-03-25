@@ -1,0 +1,10 @@
+
+assets/
+bin/
+gen/
+*.keystore
+local.properties
+NOTES.md
+release.sh
+build/
+TODO.md
